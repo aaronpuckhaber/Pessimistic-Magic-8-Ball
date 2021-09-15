@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Magic8Ball</string>
+    <string name="action_settings">Settings</string>
+    <string name="instructions">Ask the Magic 8 Ball a question.</string>
+    <string name="example">Example: Will I win the lottery? Do people like me?</string>
+    <string name="answertxt"></string>
+    <string name="answerbtn">Click here</string>
+    <string name="title_activity_start_up">Start Up</string>
+    <string name="beginhavingfun">Begin</string>
+    <string name="title_activity_fortune">FortuneActivity</string>
+
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+</resources>
+
+
